@@ -1,2 +1,6 @@
 ## Languages
-C C++ HTML CSS JavaScript Python
+
+### Most recent
+- HTML
+- CSS
+- JavaScript
